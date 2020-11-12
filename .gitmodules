@@ -1,6 +1,6 @@
 [submodule "components/json/cJSON"]
 	path = components/json/cJSON
-	url = ../../DaveGamble/cJSON.git
+	url = ../../dussentue/cJSON.git
 
 [submodule "components/mbedtls/mbedtls"]
 	path = components/mbedtls/mbedtls
